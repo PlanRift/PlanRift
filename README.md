@@ -2,7 +2,7 @@
 <h3 align="center">A Young Web Developer X Designer From Indonesia</h3>
 
 # 💫 About Me:
-🏫A student from IDN Boarding School<br>📖Currently learning about PHP<br>🏎️A fan of Cars, Keyboards, and Women?<br>🤝Add me on Discord plenrip#7739<br>💻Come and visit my website! [planrift.github.io](https://planrift.github.io)<br>📄 My Resume [here](https://s.id/1xN0F)
+🏫A student from IDN Boarding School<br>📖Currently learning about PHP<br>🏎️A fan of Cars, Keyboards, and Women?<br>🤝Add me on Discord plenrip#7739<br>💻Come and visit my website! [planrift.github.io](planrift.github.io)<br>📄 My Resume [s.id/1xN0F](s.id/1xN0F)
 
 
 ## 🌐 Socials:
