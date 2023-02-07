@@ -15,13 +15,17 @@
 
 # 💫Cool Things:
 <h3 align="center"><br>I can type pretty fast I think</h3>
-<img align="right" alt="PlanRift" width="600" src="fasttype.png">
+<div align="center">
+<img alt="PlanRift" width="600" src="fasttype.png">
+</div>
 <h4 align="center"><br>This ain't my vid but it looks cool so ima put it here<br></h4>
 <div align="center">
 <img alt="PlanRift" width="600" src="csgo.gif">
 </div>
 <h4 align="center"><br>My Laptop Setup<br></h4>
-<img alt="setup" align="right" width="600" src="setup.webp">
+<div align="center">
+<img alt="setup" width="600" src="setup.webp">
+</div>
 <br>
 
 # 📊 GitHub Stats:
