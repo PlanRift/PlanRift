@@ -6,7 +6,7 @@
 🏫A student from IDN Boarding School<br>📖Currently learning about PHP<br>🏎️A fan of Cars, Keyboards, and Women?<br>🤝Add me on Discord plenrip#7739<br>💻Come and visit my website! [planrift.github.io](https://planrift.github.io)<br>📄 My Resume [s.id/1xN0F](https://s.id/1xN0F)
 
 <div align="center">
-<img alt="PlanRift" width="600" height="300" src="csgo.gif">
+<img alt="PlanRift" width="900" src="csgo.gif">
 </div>
 <h4 align="center">This ain't my vid but it looks cool so ima put it here</h4>
 
