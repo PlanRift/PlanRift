@@ -7,7 +7,7 @@
 
 
 <img align="right" alt="PlanRift" src="csgo.gif">
-<h4 align="center" width="100vw">This ain't my vid but it looks cool so ima put it here</h4>
+<h4 align="center" width="100">This ain't my vid but it looks cool so ima put it here</h4>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/S3JP3TVguQ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drift_tofu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/planrift) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@planrift) 
