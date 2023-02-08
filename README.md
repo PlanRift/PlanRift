@@ -33,7 +33,9 @@
 <h3>💻ASUS Vivobook PRO 14x OLED</h3>
 <h5 margin-left="0.5rem">-Intel Core i5-11300H<br>-Nvidia RTX 3050 Studio<br>-OLED 2k 90hz Screen<br>-16GB Ram</h5>
 <h3>🖱️Peripherals</h3>
-<h5 margin-left="0.5rem">Mouse = Razer OROCHI v2<br>Keyboard = Custom 65% Keyboard<br>External Monitor = Koorui 2k 144hz<br></h5>
+<h5 margin-left="0.5rem">-Mouse = Razer OROCHI v2<br>-Keyboard = Custom 65% Keyboard<br>-External Monitor = Koorui 2k 144hz<br></h5>
+<h3>⌨️Keyboard</h3>
+<h5 margin-left="0.5rem">-Digital Alliance Meca 6 Plus<br>-Lubed Gateron Yellows<br>-MOMO KON Keycaps Set<br>-Foam Dampener<br>-Self Painted Gold Knob<br>-Resin Artisan Keycap</h5>
 
 
 # 📊 GitHub Stats:
