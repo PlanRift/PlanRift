@@ -28,6 +28,14 @@
 </div>
 <br>
 
+# ⚙️ Specs:
+
+<h3>ASUS Vivobook PRO 14x OLED</h3><br>
+<h5 margin-left="0.5rem">-Intel Core i5-11300H<br>-Nvidia RTX 3050 Studio<br>-OLED 2k 90hz Screen<br>-16GB Ram</h5>
+<h3>Peripherals</h3><br>
+<h5 margin-left="0.5rem">Mouse = Razer OROCHI v2<br>Keyboard = Custom 65% Keyboard<br>External Monitor = Koorui 2k 144hz<br></h5>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PlanRift&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
