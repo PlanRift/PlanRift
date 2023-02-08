@@ -16,7 +16,7 @@
 # 💫Cool Things:
 <h3 align="center"><br>I can type pretty fast I think</h3>
 <div align="center">
-<img alt="PlanRift" width="600" src="fasttype.png">
+<img alt="PlanRift" width="600" src="fasttyping.png">
 </div>
 <h4 align="center"><br>This ain't my vid but it looks cool so ima put it here<br></h4>
 <div align="center">
