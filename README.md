@@ -23,7 +23,11 @@
 <img alt="setup" width="600" src="setup.webp">
 </div>
 <br>
-[![An image of @planrift's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/planrift)](https://holopin.io/@planrift)
+<div align="center">
+<img alt="holopin.io/@planrift" width="600" src="holopin.png">
+</div>
+<br>
+
 
 
 <h3>💻ASUS Vivobook PRO 14x OLED</h3>
