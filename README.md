@@ -1,4 +1,4 @@
-<img align="right" alt="PlanRift" src="banner.png">
+<img align="right" alt="PlanRift" src="github.gif">
 
 <h3 align="center"><br>A Young Web Developer X Designer From Indonesia</h3>
 
