@@ -14,6 +14,9 @@
 <img alt="PlanRift" width="600" src="fasttyping.png">
 </div>
 <div align="center">
+<img alt="PlanRift" width="600" src="fasttyping2.png">
+</div>
+<div align="center">
 <img alt="setup" width="600" src="setup.webp">
 </div>
 <br>
